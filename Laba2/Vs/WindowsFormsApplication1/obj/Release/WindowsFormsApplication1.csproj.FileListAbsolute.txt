@@ -1,0 +1,53 @@
+C:\Users\Andrii_Asus\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\Andrii_Asus\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\Andrii_Asus\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\Andrii_Asus\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Andrii_Asus\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Andrii_Asus\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Andrii_Asus\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Users\Andrii_Asus\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+D:\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+D:\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+D:\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+D:\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+D:\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+D:\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+D:\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\zoroz\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\zoroz\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\zoroz\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\zoroz\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\zoroz\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\zoroz\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\zoroz\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\zoroz\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Users\zoroz\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+C:\Users\zoroz\Desktop\Lab_2\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\zoroz\Desktop\Lab_2\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\zoroz\Desktop\Lab_2\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\zoroz\Desktop\Lab_2\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\zoroz\Desktop\Lab_2\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\zoroz\Desktop\Lab_2\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\zoroz\Desktop\Lab_2\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\zoroz\Desktop\Lab_2\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Users\zoroz\Desktop\Lab_2\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+F:\Лабки\MK\Lab_2\Vs\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+F:\Лабки\MK\Lab_2\Vs\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+F:\Лабки\MK\Lab_2\Vs\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+F:\Лабки\MK\Lab_2\Vs\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojAssemblyReference.cache
+F:\Лабки\MK\Lab_2\Vs\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+F:\Лабки\MK\Lab_2\Vs\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+F:\Лабки\MK\Lab_2\Vs\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.cache
+F:\Лабки\MK\Lab_2\Vs\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+F:\Лабки\MK\Lab_2\Vs\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+C:\Users\Ikar\Desktop\лабки політех\2 курс 2 семестр\мікро контролери\Laba2\Vs\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\Ikar\Desktop\лабки політех\2 курс 2 семестр\мікро контролери\Laba2\Vs\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\Ikar\Desktop\лабки політех\2 курс 2 семестр\мікро контролери\Laba2\Vs\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\Ikar\Desktop\лабки політех\2 курс 2 семестр\мікро контролери\Laba2\Vs\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\Ikar\Desktop\лабки політех\2 курс 2 семестр\мікро контролери\Laba2\Vs\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Ikar\Desktop\лабки політех\2 курс 2 семестр\мікро контролери\Laba2\Vs\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Ikar\Desktop\лабки політех\2 курс 2 семестр\мікро контролери\Laba2\Vs\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\Ikar\Desktop\лабки політех\2 курс 2 семестр\мікро контролери\Laba2\Vs\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Users\Ikar\Desktop\лабки політех\2 курс 2 семестр\мікро контролери\Laba2\Vs\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb

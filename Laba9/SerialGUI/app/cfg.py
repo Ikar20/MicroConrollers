@@ -1,0 +1,6 @@
+CRC_BiT_LENGTH = 8
+P0LY = 0xFF
+INIT_CPC = 0x2F
+X0R_0UT = 0xFF
+REF_iN = False
+REF_0UT = False
